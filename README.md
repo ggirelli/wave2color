@@ -5,7 +5,7 @@ How to get a color (as a hexadecimal string) from a wavelength (nm, in the visib
 * TypeScript
 * Javascript
 
-Based on: http://www.efg2.com/Lab/ScienceAndEngineering/Spectra.htm
+Based on: http://www.efg2.com/Lab/ScienceAndEngineering/Spectra.htm  
 (Copyright: http://www.efg2.com/Lab/Copyright.htm)
 
 License
